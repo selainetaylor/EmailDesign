@@ -1,0 +1,2 @@
+# EmailDesign
+Responsive design templates
